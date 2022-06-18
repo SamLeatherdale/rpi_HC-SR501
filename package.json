@@ -1,0 +1,22 @@
+{
+  "name": "rpi_hc-sr501",
+  "version": "1.0.0",
+  "main": "log_motion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamLeatherdale/rpi_HC-SR501.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burrsutter/rpi_HC-SR501/issues"
+  },
+  "homepage": "https://github.com/burrsutter/rpi_HC-SR501#readme",
+  "dependencies": {
+    "onoff": "^6.0.3",
+    "winston": "^3.7.2"
+  }
+}
